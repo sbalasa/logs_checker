@@ -1,0 +1,4 @@
+{
+    "error1": "Received SIGINT scheduling shutdown",
+    "error2": "DB loaded from disk: 0.001 seconds"
+}
