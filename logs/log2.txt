@@ -1,0 +1,11 @@
+48233:M 24 May 2022 14:40:47.898 # Server initialized
+48233:M 24 May 2022 14:40:47.899 * Loading RDB produced by version 6.2.5
+48233:M 24 May 2022 14:40:47.899 * RDB age 312804 seconds
+48233:M 24 May 2022 14:40:47.899 * RDB memory usage when created 0.96 Mb
+48233:M 24 May 2022 14:40:47.899 * DB loaded from disk: 0.001 seconds
+48233:M 24 May 2022 14:40:47.899 * Ready to accept connections
+^C48233:signal-handler (1653386734) Received SIGINT scheduling shutdown...
+48233:M 24 May 2022 15:35:34.569 # User requested shutdown...
+48233:M 24 May 2022 15:35:34.570 * Saving the final RDB snapshot before exiting.
+48233:M 24 May 2022 15:35:34.575 * DB saved on disk
+48233:M 24 May 2022 15:35:34.575 # Redis is now ready to exit, bye bye...
